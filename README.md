@@ -39,15 +39,10 @@ npx serve .
 ```text
 .
 ├─ index.html    # Main page (content + styles)
-├─ avatar.jpg    # Profile image
-└─ AGENTS.md     # Instructions for coding agents
+└─ avatar.jpg    # Profile image
 ```
 
 ## Notes
 
 - This repository is intentionally simple: no bundler, no framework, no test runner.
 - To customize content, edit sections directly in `index.html`.
-
----
-
-Designed to be minimal, readable, and easy to maintain.
